@@ -1,0 +1,1 @@
+export const colorContent = "#3f51b5"

@@ -1,0 +1,10 @@
+{
+  "required": "{{fieldName}} là bắt buộc.",
+  "number": "Vui lòng nhập {{fieldName}} phải là dạng số.",
+  "date": "Vui lòng nhập {{fieldName}} phải là dạng dd/mm/yyyy.",
+  "email": "Vui lòng nhập {{fieldName}} phải là email.",
+  "phone": "Vui lòng nhập {{fieldName}} phải là số điện thoại.",
+  "length": "{{fieldName}} tổng số kí tự phải là {{length}}",
+  "min_length": "{{fieldName}} tổng số kí tự phải lớn hơn {{minLength}}.",
+  "max_length": "{{fieldName}} tổng số kí tự phải nhỏ hơn {{maxLength}}."
+}
